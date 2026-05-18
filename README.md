@@ -9,11 +9,11 @@ I work on building end-to-end ML systems: from data structuring and preprocessin
 
 ## What I Do
 
-- Deep Learning & Machine Learning model development for real-world problems  
-- Data preprocessing, feature engineering, and dataset design for complex systems  
-- Research-driven workflows: literature synthesis, experimental setup, reproducibility  
-- Model evaluation, optimization, and error analysis  
-- Applied AI research in materials science and battery systems  
+- Deep Learning & Machine Learning model development for real-world problems.
+- Data preprocessing, feature engineering, and dataset design for complex systems.  
+- Research-driven workflows: literature synthesis, experimental setup, reproducibility.
+- Model evaluation, optimization, and error analysis.
+- Applied AI research in materials science domain.  
 
 ---
 
