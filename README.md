@@ -34,5 +34,5 @@ A collection of applied and research-oriented projects across machine learning, 
 
 ## 👋 Connect with Me
 
-- [LinkedIn](url)  
-- Hire me on [Upwork](url)
+- [LinkedIn](https://www.linkedin.com/in/elfaqarchakir/)  
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~011bff3c698c4f0427)
