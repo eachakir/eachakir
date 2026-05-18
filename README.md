@@ -1,6 +1,6 @@
 # Meet the Builder
 
-![Alt Text](Github Banner Bio.jpg)
+![Banner](GithubBannerBio.jpg)
 
 Hello, I’m Data Scientist focused on deep learning, applied machine learning, and research-driven problem solving in scientific domains.
 I work on building end-to-end ML systems: from data structuring and preprocessing to model training, evaluation, and interpretation.
